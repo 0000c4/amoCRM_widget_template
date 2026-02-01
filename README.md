@@ -48,16 +48,4 @@
 ### Альтернативные опции (если основной URL недоступен):
 
 **Вариант 1:** Использовать другой сервис плейсхолдеров
-```javascript
-// Примеры альтернативных сервисов:
-'https://via.placeholder.com/'
-'https://dummyimage.com/'
-'https://picsum.photos/'
-```
-
 **Вариант 2:** Использовать локальные плейсхолдеры
-```javascript
-// Заменить на локальный путь или data-URL
-'/assets/placeholder.jpg'
-'data:image/svg+xml;base64,...'
-```
